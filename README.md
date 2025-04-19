@@ -15,19 +15,19 @@ Our program is compatible with Python 3 on Windows/Linux.
 ### 2.1 Input folder preparation
 Before executing the program, prepare an _input folder_ named `Data` within the `OncosenseSoftware` folder, which will contain 
 your input data files.
-
+The format of the input file is as follows: [TBD - Gil]
 ### 2.2 Running the program
-[TBD]
+[TBD - Noa]
 
 ### 2.3 Output
 The program will automatically create an output folder names as the inupt file, containing the following information:
 1. A folder names `G` containing:
    * The `edges.csv` file displays the top and bottom 10% of proteins (the "tails" in our analysis).
    * The `sort_G.csv` file displays all of the proteins, sorted by the G value
-   * The `Graphs` folder contains an svg graph per process, showing all proteins sorted by their G value
+   * The `Graphs` folder contains an svg graph per process, showing all proteins sorted by their G value [TBD - Gil]
 2. Several folders of cell line info:
-   * Each folder
+   * Each folder [TBD - Gil]
 
 ## 3. Running Example ##
-For example, when running the program on the 
-The output folder will contain the resulting figures, numbered according to their references in the paper:
+For example, when running the program on the `Data\Table1_myData38.xlsx` file, we get the following output folders:
+
