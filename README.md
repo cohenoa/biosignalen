@@ -13,7 +13,7 @@ Our program is compatible with Python 3 on Windows/Linux.
 
 ## 2. Execution ##
 ### 2.1 Input folder preparation
-Before executing the program, prepare an _input folder_ named `Data` within the `OncosenseSoftware` folder, which will contain 
+Before executing the program, prepare an _input folder_ named `Data` within the `oncosense` folder, which will contain 
 your input data files.
 The format of the input file is as follows: [TBD]
 ### 2.2 Running the program
