@@ -24,5 +24,10 @@ The program will automatically create an output folder names as the inupt file, 
 1. A folder names `G` containing:
    * The `edges.csv` file displays the top and bottom 10% of proteins (the "tails" in our analysis).
    * The `sort_G.csv` file displays all of the proteins, sorted by the G value
-   * The `Graphs` folder [TBD]
-2. Folders with cell line info [TBD]
+   * The `Graphs` folder contains an svg graph per process, showing all proteins sorted by their G value
+2. Several folders of cell line info:
+   * Each folder
+
+## 3. Running Example ##
+For example, when running the program on the 
+The output folder will contain the resulting figures, numbered according to their references in the paper:
