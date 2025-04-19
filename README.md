@@ -29,5 +29,5 @@ The program will automatically create an output folder names as the inupt file, 
    * Each folder [TBD - Gil]
 
 ## 3. Running Example ##
-For example, when running the program on the `Data\Table1_myData38.xlsx` file, we get the following output folders:
+For example, when running the program on the `Data\Table1_myData38.xlsx` file, we get the following output folders: [TBD - Noa]
 
