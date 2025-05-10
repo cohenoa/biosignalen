@@ -20,7 +20,8 @@ The format of the input file is an excel file (.xlsx suffix) containing two esse
 - In the 'L' worksheet, we see for each cell line the treatment details: compound added, mathcing dosage and time, followed by [TBD]
 - The 'ErrorLimitLambda' worksheet contains a single value [TBD]
 ### 2.2 Running the program
-[TBD]
+In order to run the program, set the `data_name` variable in line 4 in the `main.py` file (e.g., 'Table1_myData97_demo') and execute the main.
+The program will ask you to choose which cell lines should be included in the analysis by  For each cell line the 
 
 ### 2.3 Output
 The program will automatically create an output folder names as the inupt file, containing the following information:
@@ -32,5 +33,9 @@ The program will automatically create an output folder names as the inupt file, 
    * Each folder [TBD]
 
 ## 3. Running Example ##
-For example, when running the program on the `Data\Table1_myData38.xlsx` file, we get the following output folders: [TBD]
+### 3.1 First Example
+When running the program on the `Data\Table1_myData97_demo.xlsx` which contains data of a single cell line with five different treatments, we get the following two pop-up window:
+![image](https://github.com/user-attachments/assets/46d69598-9e5a-4775-a971-80791ae1f349)
+![image](https://github.com/user-attachments/assets/68f40fee-7db1-4c3b-affb-3e174d605b9f)
 
+The resulting output folders are 
