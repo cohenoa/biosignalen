@@ -15,7 +15,9 @@ Our program is compatible with Python 3 on Windows/Linux.
 ### 2.1 Input folder preparation
 Before executing the program, prepare an _input folder_ named `Data` within the `oncosense` folder, which will contain 
 your input data files.
-The format of the input file is as follows: [TBD]
+The format of the input file is an excel file (.xlsx suffix) containing two essential tabs named "G" and "L":
+- In the "G" tab, each row represents a protein: the “UID” column lists the protein name, and the subsequent columns contain the scores for each process (here, the surprisal‑analysis scores).
+- In the "L" tab, 
 ### 2.2 Running the program
 [TBD]
 
