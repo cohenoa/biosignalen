@@ -1,7 +1,7 @@
 import oncosensepy as osp
 
 if __name__ == '__main__':
-    data_name = 'Table1_myData38'
+    data_name = 'Table1_myData97_demo'
     data_set_path = r'Data/' + data_name + '.xlsx'
 
     l_df, g_df, err_limit_lambda = osp.get_LGE_data(data_set_path)
