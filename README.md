@@ -43,3 +43,50 @@ When running the program on the `Data\Table1_myData97_demo.xlsx` which contains 
 <br/>The resulting output folders are:<br/>
 ![image](https://github.com/user-attachments/assets/eabeb1da-dba8-4967-b47d-0fc5450e6fb5)
 
+### 3.2 Second Example
+When running the program on the `Data\Table1_myData32_demo.xlsx` which contains data of several single cell lines with five different treatments, we get the following two pop-up windows:<br/>
+
+![image](https://github.com/user-attachments/assets/33431c72-6d22-4260-97d1-9ec79ef202a6)
+
+<b>I. Select only the "pc3" cell line for the analysis:<b/><br/>
+![image](https://github.com/user-attachments/assets/5eba478f-c062-48a8-be44-dffdaf010ba0)
+
+
+<br/><b>II. For the selected cell line in (I),select the control compounds in the left panel and the non‑control compounds in the right panel:<b/><br/>
+![image](https://github.com/user-attachments/assets/a96a6ff3-0cc6-41ff-91ff-d8a4b8450b99)
+
+
+<br/>The resulting output folders are:<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
