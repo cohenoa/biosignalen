@@ -34,7 +34,7 @@ The program will automatically create an output folder names as the inupt file, 
 
 ## 3. Running Example ##
 ### 3.1 First Example
-When running the program on the `Data\Table1_myData97_demo.xlsx` which contains data of a single cell line with five different treatments, we get the following two pop-up windows:<br/>
+When running the program on the `Data\Table1_myData97_demo.xlsx` (see Supplementary Table 26) which contains data of a single cell line with five different treatments, we get the following two pop-up windows:<br/>
 <b>I. Select cell lines for the analysis:<b/><br/>
 ![image](https://github.com/user-attachments/assets/46d69598-9e5a-4775-a971-80791ae1f349)
 <br/><b>II. For each cell line selected in (I),select the control compounds in the left panel and the non‑control compounds in the right panel:<b/><br/>
@@ -44,7 +44,7 @@ When running the program on the `Data\Table1_myData97_demo.xlsx` which contains 
 ![image](https://github.com/user-attachments/assets/eabeb1da-dba8-4967-b47d-0fc5450e6fb5)
 
 ### 3.2 Second Example
-When running the program on the `Data\Table1_myData32_demo.xlsx` which contains data of several single cell lines with five different treatments, we get the following two pop-up windows:<br/>
+When running the program on the `Data\Table1_myData32_demo.xlsx` (see Supplementary Table 4) which contains data of several single cell lines with five different treatments, we get the following two pop-up windows:<br/>
 
 ![image](https://github.com/user-attachments/assets/33431c72-6d22-4260-97d1-9ec79ef202a6)
 
