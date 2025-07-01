@@ -44,7 +44,7 @@ When running the program on the `Data\Table1_myData97_demo.xlsx` (see Supplement
 ![image](https://github.com/user-attachments/assets/eabeb1da-dba8-4967-b47d-0fc5450e6fb5)
 
 ### 3.2 Second Example
-When running the program on the `Data\Table1_myData32_demo.xlsx` (see Supplementary Table 4) which contains data of several single cell lines with five different treatments, we get the following two pop-up windows:<br/>
+When running the program on the `Data\supp_data_4.xlsx` (see Supplementary Table 4) which contains data of several single cell lines with five different treatments, we get the following two pop-up windows:<br/>
 
 ![image](https://github.com/user-attachments/assets/33431c72-6d22-4260-97d1-9ec79ef202a6)
 
@@ -55,8 +55,8 @@ When running the program on the `Data\Table1_myData32_demo.xlsx` (see Supplement
 <br/><b>II. For the selected cell line,select the control compounds in the left panel and the non‑control compounds in the right panel:<b/><br/>
 ![image](https://github.com/user-attachments/assets/bd838533-8013-4527-b729-d873a8c3dfbd)
 
-
 <br/>The resulting output folders are:<br/>
+![image](https://github.com/user-attachments/assets/54f75e6f-244d-4c32-979b-e0e4f7f48373)
 
 
 
