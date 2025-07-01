@@ -36,9 +36,9 @@ The program will automatically create an output folder names as the inupt file, 
 # 3. Running Examples #
 ## 3.1. First Example
 When running the program on the `Data\supp_data_26.xlsx` (see Supplementary Table 26) which contains data of a single cell line with five different treatments, we get the following two pop-up windows:<br/>
-<b>I. Select cell lines for the analysis:<b/><br/>
-![image](https://github.com/user-attachments/assets/46d69598-9e5a-4775-a971-80791ae1f349)
-<br/><b>II. For each cell line selected in (I),select the control compounds in the left panel and the non‑control compounds in the right panel:<b/><br/>
+I. Select cell lines for the analysis:<br/>
+![image](https://github.com/user-attachments/assets/46d69598-9e5a-4775-a971-80791ae1f349)<br/>
+II. For each cell line selected in (I),select the control compounds in the left panel and the non‑control compounds in the right panel:<br/>
 ![image](https://github.com/user-attachments/assets/68f40fee-7db1-4c3b-affb-3e174d605b9f)
 
 <br/>The resulting output folders are:<br/>
