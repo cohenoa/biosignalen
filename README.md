@@ -18,10 +18,7 @@ your input data files. The data can be the results from any computational analys
 The format of the input file is an excel file (.xlsx suffix) containing three worksheets:
 * 'G' - In our case, each row represents a protein: the “UID” column lists the protein name, and the subsequent columns contain the scores for each process (here, the surprisal‑analysis scores); in general this represnts gene\protein\other molecules score
 * 'L' - in our case this is the amplitude of the process; in general scores of any pattern. In our case, each line represents a cell line with the treatment details: compound added, mathcing dosage and time.   
-* 'ErrorLimitLambda': error computed from the sample scores errors 
-* 
-- In the 'G' worksheet, each row represents a protein: the “UID” column lists the protein name, and the subsequent columns contain the scores for each process (here, the surprisal‑analysis scores).
-
+* 'ErrorLimitLambda': This is the limit based on which we define whether the proccess is hectic or not.However in other cases it can be an other threshold which define the minimal sample score.
 
 
 ## 2.2. Running the program
