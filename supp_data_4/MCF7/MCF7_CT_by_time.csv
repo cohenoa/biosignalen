@@ -1,0 +1,8 @@
+,cell_line_name,compound_name,2D_3D,dosage,time,13,8
+6,MCF7,DMSO,-0-,-0-,24hrs,-1.652254515209202,
+22,MCF7,GLEEVEC,-0-,-0-,24hrs,-1.8756578303990652,
+Reason,,,,,,Emerging process,
+-,,,,,,,
+38,MCF7,DMSO,-0-,-0-,48hrs,-1.3498796871120582,2.367332076668455
+54,MCF7,GLEEVEC,-0-,-0-,48hrs,-1.7715430694828742,1.627694290384018
+Reason,,,,,,Emerging process,Disappearing process

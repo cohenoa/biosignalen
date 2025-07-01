@@ -1,0 +1,12 @@
+,cell_line_name,compound_name,2D_3D,dosage,time,6,7,4
+9,MEL624,DMSO,-0-,-0-,24hrs,-1.837997279930434,2.798680151807152,
+25,MEL624,GLEEVEC,-0-,-0-,24hrs,-1.07293826247797,1.4791420305882161,
+Reason,,,,,,Disappearing process,Disappearing process,
+-,,,,,,,,
+41,MEL624,DMSO,-0-,-0-,48hrs,,,1.58250994667876
+57,MEL624,GLEEVEC,-0-,-0-,48hrs,,,1.8786097498531629
+Reason,,,,,,,,Emerging process
+-,,,,,,,,
+25,MEL624,GLEEVEC,-0-,-0-,24hrs,,,1.6790215561843076
+57,MEL624,GLEEVEC,-0-,-0-,48hrs,,,1.8786097498531629
+Reason,,,,,,,,Emerging process

@@ -1,0 +1,12 @@
+,cell_line_name,compound_name,2D_3D,dosage,time,5,9,7
+16,SKOV3,DMSO,-0-,-0-,24hrs,-1.1782986333851413,1.6027121258151156,
+32,SKOV3,GLEEVEC,-0-,-0-,24hrs,-2.3395307848446625,1.8970382280199904,
+Reason,,,,,,Emerging process,Emerging process,
+-,,,,,,,,
+48,SKOV3,DMSO,-0-,-0-,48hrs,,,1.5494517445685396
+64,SKOV3,GLEEVEC,-0-,-0-,48hrs,,,1.7848557604999247
+Reason,,,,,,,,Emerging process
+-,,,,,,,,
+32,SKOV3,GLEEVEC,-0-,-0-,24hrs,,1.8970382280199904,
+64,SKOV3,GLEEVEC,-0-,-0-,48hrs,,1.6744305695652613,
+Reason,,,,,,,Disappearing process,

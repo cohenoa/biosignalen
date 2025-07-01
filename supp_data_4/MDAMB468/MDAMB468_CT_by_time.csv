@@ -1,0 +1,8 @@
+,cell_line_name,compound_name,2D_3D,dosage,time,7,2,6
+3,MDAMB468,DMSO,-0-,-0-,24hrs,-1.4764264143798975,,
+19,MDAMB468,GLEEVEC,-0-,-0-,24hrs,-1.7552043573687952,,
+Reason,,,,,,Emerging process,,
+-,,,,,,,,
+35,MDAMB468,DMSO,-0-,-0-,48hrs,,1.4670280628412788,-2.1706192645276197
+51,MDAMB468,GLEEVEC,-0-,-0-,48hrs,,1.7761263199403743,-1.4796581188352442
+Reason,,,,,,,Emerging process,Disappearing process

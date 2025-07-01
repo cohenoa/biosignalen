@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96d2143b-9623-4b21-97f4-0d2e90dd28f5" name="Changes" comment="" />
+    <list default="true" id="96d2143b-9623-4b21-97f4-0d2e90dd28f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Data/supp_data_4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/BT549/BT549_AVG_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/BT549/BT549_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 1.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 10.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 11.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 12.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 13.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 14.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 15.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 2.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 3.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 4.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 5.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 6.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 7.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 8.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/Graphs/Process 9.SVG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/edges.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/G/sort_G.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MCF7/Bars/DMSO, GLEEVEC/ Process 13 - by time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MCF7/Bars/DMSO, GLEEVEC/ Process 8 - by time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MCF7/Graphs/DMSO, GLEEVEC/ Process 13 - by time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MCF7/MCF7_AVG_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MCF7/MCF7_CT_AVG_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MCF7/MCF7_CT_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MCF7/MCF7_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MDAMB468/Bars/DMSO, GLEEVEC/ Process 2 - by time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MDAMB468/Bars/DMSO, GLEEVEC/ Process 6 - by time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MDAMB468/Bars/DMSO, GLEEVEC/ Process 7 - by time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MDAMB468/MDAMB468_AVG_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MDAMB468/MDAMB468_CT_AVG_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MDAMB468/MDAMB468_CT_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/MDAMB468/MDAMB468_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/T47D/T47D_AVG_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/T47D/T47D_CT_AVG_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/T47D/T47D_CT_by_time.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supp_data_4/T47D/T47D_by_time.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/oncosense.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oncosense.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Table1_myData97_demo.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data/supp_data_26.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/EFM192A/EFM192A_AVG_by_time.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/EFM192A/EFM192A_AVG_by_time.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/EFM192A/EFM192A_by_time.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/EFM192A/EFM192A_by_time.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 1.SVG" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 1.SVG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 2.SVG" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 2.SVG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 3.SVG" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 3.SVG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 4.SVG" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 4.SVG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 5.SVG" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 5.SVG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 6.SVG" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 6.SVG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 7.SVG" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 7.SVG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 8.SVG" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 8.SVG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 9.SVG" beforeDir="false" afterPath="$PROJECT_DIR$/Table1_myData97_demo/G/Graphs/Process 9.SVG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +76,34 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oncosense" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +114,16 @@
       <updated>1742245484092</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
