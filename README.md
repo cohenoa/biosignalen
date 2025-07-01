@@ -68,6 +68,8 @@ For demonstration purposes, we focus on the PC3 cell line. In the output file PC
 
 More specifically, for example, Process 1 exhibits a sign change after 24 hours and is classified as an emerging process after 48 hours. In contrast, Process 12 is identified as a disappearing process at both 24 and 48 hours.
 
+<img src="https://github.com/user-attachments/assets/b75260d3-0323-47fb-bd7f-ce95c923a376" style="width:600px;"/>
+
 ![image](https://github.com/user-attachments/assets/b75260d3-0323-47fb-bd7f-ce95c923a376)
 
 
