@@ -34,7 +34,7 @@ The program will automatically create an output folder names as the inupt file, 
 
 ## 3. Running Example ##
 ### 3.1 First Example
-When running the program on the `Data\Table1_myData97_demo.xlsx` (see Supplementary Table 26) which contains data of a single cell line with five different treatments, we get the following two pop-up windows:<br/>
+When running the program on the `Data\supp_data_26.xlsx` (see Supplementary Table 26) which contains data of a single cell line with five different treatments, we get the following two pop-up windows:<br/>
 <b>I. Select cell lines for the analysis:<b/><br/>
 ![image](https://github.com/user-attachments/assets/46d69598-9e5a-4775-a971-80791ae1f349)
 <br/><b>II. For each cell line selected in (I),select the control compounds in the left panel and the non‑control compounds in the right panel:<b/><br/>
@@ -44,18 +44,18 @@ When running the program on the `Data\Table1_myData97_demo.xlsx` (see Supplement
 ![image](https://github.com/user-attachments/assets/eabeb1da-dba8-4967-b47d-0fc5450e6fb5)
 
 ### 3.2 Second Example
-When running the program on the `Data\supp_data_4.xlsx` (see Supplementary Table 4) which contains data of several single cell lines with five different treatments, we get the following two pop-up windows:<br/>
+When running the program on the `Data\supp_data_4.xlsx` (see Supplementary Table 4) which contains data of several single cell lines with five different treatments and 17 cell lines, we get the following two pop-up windows:<br/>
 
-![image](https://github.com/user-attachments/assets/33431c72-6d22-4260-97d1-9ec79ef202a6)
+![image](https://github.com/user-attachments/assets/9598d1a6-990c-4f4c-809d-10df8c4b8331)
 
-<b>I. Select only the "pc3" cell line for the analysis:<b/><br/>
-![image](https://github.com/user-attachments/assets/5eba478f-c062-48a8-be44-dffdaf010ba0)
-
-
-<br/><b>II. For the selected cell line,select the control compounds in the left panel and the non‑control compounds in the right panel:<b/><br/>
+<br/><b>For all cell lines, select the control compounds in the left panel and the non‑control compounds in the right panel.<b/><br/>
+For example for PC3 we get: </br>
 ![image](https://github.com/user-attachments/assets/bd838533-8013-4527-b729-d873a8c3dfbd)
+and for MDAMB231HT we get: </br>
 
-<br/>The resulting output folders are:<br/>
+![image](https://github.com/user-attachments/assets/88ac89ad-4b5b-4624-b2f8-76ad120945ea)
+
+<br/>When using the default suggested by the tool for each cell line in this case, the resulting output folders are:<br/>
 ![image](https://github.com/user-attachments/assets/54f75e6f-244d-4c32-979b-e0e4f7f48373)
 
 
