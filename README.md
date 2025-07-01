@@ -15,13 +15,14 @@ Our program is compatible with Python 3 on Windows/Linux.
 ## 2.1. Input folder preparation
 Before executing the program, prepare an _input folder_ named `Data` within the `BioSiganLen` folder, which will contain 
 your input data files. The data can be the results from any computational analysis (including machine learning and statistical techniques).
-The format of the input file is an excel file (.xlsx suffix) containing two essential worksheets:
-* 'G' - in our case these are the protein scores values; in general this represnts gene\protein\other molecules score
-* 'L' - in our case this is the amplitude of the process; in general scores of any pattern  
-* 'ErrorLimitLambda':
+The format of the input file is an excel file (.xlsx suffix) containing three worksheets:
+* 'G' - In our case, each row represents a protein: the “UID” column lists the protein name, and the subsequent columns contain the scores for each process (here, the surprisal‑analysis scores); in general this represnts gene\protein\other molecules score
+* 'L' - in our case this is the amplitude of the process; in general scores of any pattern. In our case, each line represents a cell line with the treatment details: compound added, mathcing dosage and time.   
+* 'ErrorLimitLambda': error computed from the sample scores errors 
+* 
 - In the 'G' worksheet, each row represents a protein: the “UID” column lists the protein name, and the subsequent columns contain the scores for each process (here, the surprisal‑analysis scores).
-- In the 'L' worksheet, we see for each cell line the treatment details: compound added, mathcing dosage and time, followed by [TBD]
-- The 'ErrorLimitLambda' worksheet contains a single value [TBD]
+
+
 
 ## 2.2. Running the program
 In order to run the program, set the `data_name` variable in line 4 in the `main.py` file (e.g., 'Table1_myData97_demo') and execute the main.
