@@ -27,11 +27,10 @@ The program will ask you to choose which cell lines should be included in the an
 ## 2.3. Output
 The program will automatically create an output folder names as the inupt file, containing the following information:
 1. A folder names `G` containing:
-   * The `edges.csv` file displays the top and bottom 10% of proteins (the "tails" in our analysis).
+   * The `edges.csv` file displays the top and bottom 10% of proteins (the "tails" in our analysis, 10% of each side).
    * The `sort_G.csv` file displays all of the proteins, sorted by the G value
-   * The `Graphs` folder contains an svg graph per process, showing all proteins sorted by their G value [TBD]
-2. Several folders of cell line info:
-   * Each folder [TBD]
+   * The `Graphs` folder contains an svg graph per process, showing all proteins sorted by their G value 
+2. Folder per cell line: graphocal and textual data regarding processes that changed after treatment. These effects are categorized as 'Sign change,' 'Emerging process,' or 'Disappearing process,' based on the corresponding values in the input data (only significant changes with p-value > 0.05 are reported).
 
 # 3. Running Examples #
 ## 3.1. First Example
@@ -64,7 +63,7 @@ When using the default suggested by the tool for each cell line in this case, th
 
 ### 3.2.1. Interpretation
 
-For demonstration purposes, we focus on the PC3 cell line. In the output file PC3_AVG_by_time.csv, 10 processes are reported as being affected by the treatment (Processes 1, 2, 3, 4, 5, 8, 11, 12, 13, and 14). These effects are categorized as 'Sign change,' 'Emerging process,' or 'Disappearing process,' based on the corresponding values in the input data (only significant changes with p-value > 0.05 are reported).
+For demonstration purposes, we focus on the PC3 cell line. In the output file PC3_AVG_by_time.csv, 10 processes are reported as being affected by the treatment (Processes 1, 2, 3, 4, 5, 8, 11, 12, 13, and 14). 
 
 More specifically, for example, Process 1 exhibits a sign change after 24 hours and is classified as an emerging process after 48 hours. In contrast, Process 12 is identified as a disappearing process at both 24 and 48 hours (click the image to enlarge it)
 
