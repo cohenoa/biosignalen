@@ -1,19 +1,19 @@
-# Oncosense package:
+# BioSiganLen package:
 
 # 1. Installation #
 Our program is compatible with Python 3 on Windows/Linux.
 1. Install Python 3: https://www.python.org/download/releases/3.0/ 
 2. Download freely available code from this repository.
 3. Unzip the downloaded file. 
-4. Rename the unzipped folder (optional): <CODE_FOLDER>, e.g., `“C:\oncosense\”`
+4. Rename the unzipped folder (optional): <CODE_FOLDER>, e.g., `“C:\biosiganlen\”`
 5. Open the command line (Windows command: cmd) 
-6. Go to the folder: `cd C:\oncosense\`
+6. Go to the folder: `cd C:\biosiganlen\`
 7. Run the following command (installation of necessary software components):
 `pip install -r requirements.txt`
 
 # 2. Execution #
 ## 2.1. Input folder preparation
-Before executing the program, prepare an _input folder_ named `Data` within the `oncosense` folder, which will contain 
+Before executing the program, prepare an _input folder_ named `Data` within the `BioSiganLen` folder, which will contain 
 your input data files.
 The format of the input file is an excel file (.xlsx suffix) containing two essential worksheets: 'G', 'L' and 'ErrorLimitLambda':
 - In the 'G' worksheet, each row represents a protein: the “UID” column lists the protein name, and the subsequent columns contain the scores for each process (here, the surprisal‑analysis scores).
