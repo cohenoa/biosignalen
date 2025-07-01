@@ -52,8 +52,8 @@ When running the program on the `Data\Table1_myData32_demo.xlsx` (see Supplement
 ![image](https://github.com/user-attachments/assets/5eba478f-c062-48a8-be44-dffdaf010ba0)
 
 
-<br/><b>II. For the selected cell line in (I),select the control compounds in the left panel and the non‑control compounds in the right panel:<b/><br/>
-![image](https://github.com/user-attachments/assets/a96a6ff3-0cc6-41ff-91ff-d8a4b8450b99)
+<br/><b>II. For the selected cell line,select the control compounds in the left panel and the non‑control compounds in the right panel:<b/><br/>
+![image](https://github.com/user-attachments/assets/bd838533-8013-4527-b729-d873a8c3dfbd)
 
 
 <br/>The resulting output folders are:<br/>
